@@ -1,0 +1,1 @@
+from tkinter import *  #tkinter es la ibrería usaba para crear el GUI
